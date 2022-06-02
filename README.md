@@ -1,7 +1,7 @@
 ![6 (1)](https://user-images.githubusercontent.com/63136680/171276102-ae1e1aa3-42b6-4c2e-8251-4e66ee9871f4.jpg)
 
 
-# MyBudget - Web App de Análise Financeira
+# MyBudget
 
 Projeto de um app web de análise financeira pessoal usando apenas Python com base de dados no computador do usuário.
 
