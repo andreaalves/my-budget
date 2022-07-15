@@ -9,6 +9,8 @@ import plotly.express as px
 from app import *
 from components import sidebar, dashboards, extratos
 
+
+
 # DataFrames and Dcc.Store
 
 df_receitas = pd.read_csv("df_receitas.csv", index_col=0, parse_dates=True)
